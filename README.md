@@ -4,7 +4,7 @@ Code and Demo of the homework paper for DL class in UPC.
 "A Context-Based Multi-Scale Discriminant Model for Natural Image Inpainting".
 
 ## Note
-It is a model for inpainting task, which is based on [Global & Local](https://dl.acm.org/doi/abs/10.1145/3072959.3073659),
+It is a model for inpainting task, which is based on [Global & Local](https://dl.acm.org/doi/abs/10.1145/3072959.3073659) and [NIN](https://arxiv.org/abs/1312.4400).
 
 ## Demo(Inference)
 ### 1. Download pretrained generator
@@ -65,7 +65,7 @@ One can also customize their training settings in `./config.json`.
 * Phase 3 for 400,000
 ![All text](https://github.com/Oliiveralien/DLclass-Oliver_Inpainting/blob/master/images/phase3_step40000.png)
 
-For more results and models during traning, click [here](). (key: 6666)
+For more results and models during traning, click [here](https://pan.baidu.com/s/1dFI-yhNvX0br5cMRNj07cA). (key: 6666)
 
 ## Contact
 Please contact me if there is any question. (Chao Wang oliversavealien@gmail.com)

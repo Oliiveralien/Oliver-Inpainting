@@ -65,5 +65,8 @@ One can also customize their training settings in `./config.json`.
 * Phase 3 for 400,000
 ![All text](https://github.com/Oliiveralien/DLclass-Oliver_Inpainting/blob/master/images/phase3_step40000.png)
 
-For more results during traning, click [here](). (key:6666)
+For more results during traning, click [here](). (key: 6666)
+
+## Contact
+Please contact me if there is any question. (Chao Wang oliversavealien@gmail.com)
 

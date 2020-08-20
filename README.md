@@ -4,7 +4,7 @@ Code and Demo of the homework paper for DL class in UPC.
 "A Context-Based Multi-Scale Discriminant Model for Natural Image Inpainting".
 
 ## Note
-It is a model for inpainting task, which is based on [Global & Local](https://dl.acm.org/doi/abs/10.1145/3072959.3073659) and [NIN](https://arxiv.org/abs/1312.4400).
+It is a model for inpainting task, which is based on [GL](https://dl.acm.org/doi/abs/10.1145/3072959.3073659) and [NIN](https://arxiv.org/abs/1312.4400).
 
 ## Demo(Inference)
 ### 1. Download pretrained generator

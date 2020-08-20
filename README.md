@@ -14,4 +14,3 @@ It is a model for inpainting task, which is based on [Global & Local](https://dl
 ## Results
 ### 1. Reuslts on ParisStreet View dataset along with epochs.
 ![All text](https://github.com/Oliiveralien/DLclass-Oliver_Inpainting/blob/master/images/GIF%202020-8-20%2010-56-41.gif)
-

@@ -1,5 +1,5 @@
 # DLclass-Oliver_Inpainting
-Code, Demo and Results of the homework paper for DL class in UPC. 
+Code, Demo and Results of the homework paper for DL class in UPC, also for the Data Science class homework.
 
 "A Context-Based Multi-Scale Discriminant Model for Natural Image Inpainting".
 
